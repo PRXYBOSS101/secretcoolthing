@@ -4,7 +4,7 @@ If links not working click link below and enter youtube.com in the middle then p
 
 [Proxy](https://ultraviolet-node-7.thebm.repl.co)
 
-[Test Proxy](spotsstuff.ml)
+[Test Proxy](https://spotsstuff.ml)
 
 Games:
 
