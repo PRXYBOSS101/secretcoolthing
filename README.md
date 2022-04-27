@@ -2,7 +2,7 @@
 
 If links not working click link below and enter youtube.com in the middle then press the back button untill you get back here, and the links should work.
 
-[Proxy](https://ultraviolet-node-7.thebm.repl.co)
+[Proxy](holyspots.ml)
 
 Games:
 
