@@ -4,6 +4,8 @@ If links not working click link below and enter youtube.com in the middle then p
 
 [Proxy](https://ultraviolet-node-7.thebm.repl.co)
 
+[Test Proxy](https://ultraviolet-node-7.thebm.repl.co)
+
 Games:
 
 [Geforce Now](https://ultraviolet-node-7.thebm.repl.co/service/hvtrs8%2F-pna%7B.eedopcgnmw%2Ccmm-mcln%2F)
